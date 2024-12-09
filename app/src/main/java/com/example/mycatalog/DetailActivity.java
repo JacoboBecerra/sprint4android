@@ -28,7 +28,7 @@ public class DetailActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 // Muestra un mensaje Toast al hacer clic en el botón
-                Toast.makeText(DetailActivity.this, "Me gusta", Toast.LENGTH_SHORT).show();
+                Toast.makeText(DetailActivity.this, "Me Gusta", Toast.LENGTH_SHORT).show();
 
                 // Aquí puedes agregar la lógica para navegar a una nueva actividad (detalle)
                 // Por ejemplo, si tienes una actividad llamada DetailActivity:
