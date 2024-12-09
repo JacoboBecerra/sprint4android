@@ -17,7 +17,7 @@ public class CatalogActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         // Cargamos el xml
-        setContentView(R.layout.activity_detail);
+        setContentView(R.layout.catalog_activity);
 
 
         // Conecta el botón usando su ID
